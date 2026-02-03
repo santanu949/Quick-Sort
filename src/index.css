@@ -1,0 +1,38 @@
+/* Google Font */
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
+
+/* Tailwind */
+@import "tailwindcss";
+
+/* Theme tokens */
+:root {
+  --color-primary: #f84565;
+  --color-primary-dull: #d63854;
+}
+
+/* Base styles */
+body {
+  font-family: "Outfit", sans-serif;
+  color: white;
+  background-color: #09090b;
+}
+
+/* Scrollbar — Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #787777 #1e1e1e;
+}
+
+/* Scrollbar — Chrome / Edge / Safari */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1e1e1e;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #787777;
+  border-radius: 4px;
+}
