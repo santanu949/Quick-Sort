@@ -5,7 +5,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.1.18-38B2AC.svg)](https://tailwindcss.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A modern, high-performance web application built to simulate a real-world theatre and movie ticket booking experience. **Quick-Sort** (the project name) leverages cutting-edge frontend technologies to provide a seamless, interactive, and visually stunning user interface for movie enthusiasts.
+A modern, high-performance web application built to simulate a real world theatre and movie ticket booking experience. **Quick-Sort** (the project name) leverages cutting-edge frontend technologies to provide a seamless, interactive, and visually stunning user interface for movie enthusiasts.
 
 ---
 
