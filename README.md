@@ -11,7 +11,7 @@ A modern, high performance web application built to simulate a real world theatr
 
 ## 📖 Overview
 
-The **Quick-Sort Movie Booking System** solves the problem of complex and clunky ticket booking interfaces. By focusing on a "decision first" UI, it allows users to quickly browse trending movies, watch trailers, and select seats through an intuitive, interactive theatre layout. The project aims to demonstrate advanced React patterns, state management, and seamless third-party integrations like Clerk for authentication.
+The **Quick Sort Movie Booking System** solves the problem of complex and clunky ticket booking interfaces. By focusing on a "decision first" UI, it allows users to quickly browse trending movies, watch trailers, and select seats through an intuitive, interactive theatre layout. The project aims to demonstrate advanced React patterns, state management, and seamless third-party integrations like Clerk for authentication.
 
 ### Core Idea
 The application is designed to be fast, responsive, and developer friendly, utilizing Vite's rapid HMR and Tailwind CSS 4's powerful styling capabilities to create a premium feel.
